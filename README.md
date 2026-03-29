@@ -1,2 +1,2 @@
-# SmartWatch
-嵌赛 智能AI手表
+# SmartCar
+嵌赛 智能跟随购物车
