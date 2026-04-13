@@ -10,9 +10,11 @@
 //#include "tim.h"
 //#include "usart.h"
 //#include "adc.h"
+#include "spi.h"
 
 // 自设库
 #include "Key.h"
+#include "MyLCD_200.h"
 
 
 #endif
