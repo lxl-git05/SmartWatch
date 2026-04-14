@@ -12,7 +12,7 @@ void Mymain(void)
 	
 	while(1)
 	{
-		LCD_DisplayString( 84 ,240,"FPS:");
+		LCD_DisplayString( 84 ,240,"cnt:");
 		LCD_DisplayNumber( 132,240, cnt++,2) ;	// œ‘ æ÷°¬ 	
 	}
 }
